@@ -1,0 +1,31 @@
+1. Why Javascript is used ?
+
+2. Extension ? 
+
+let vs const (basic variables)
+
+Datatypes
+
+template literals
+
+Functions & Arrow Functions
+
+Objects & Arrays
+
+Destructuring (object + array)
+
+Spread Operator (... )
+
+Array Methods
+
+map() ⭐
+
+filter()
+
+find() (optional)
+
+ES Modules (import / export)
+
+Ternary Operator (condition ? true : false)
+
+Basic Event Concept (onClick idea)
