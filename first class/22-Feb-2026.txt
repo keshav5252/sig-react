@@ -1,0 +1,23 @@
+🔹 Topics:
+
+React kya hai?
+
+SPA kya hota hai?
+
+React kyu use karte hain?
+
+Virtual DOM concept (basic idea)
+
+Node.js & npm intro
+
+Vite se React app banana
+
+Project structure samjhana
+
+🔹 Practical:
+
+npm create vite@latest
+
+Folder structure explain karna
+
+App.jsx samjhana
